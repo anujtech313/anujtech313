@@ -1,4 +1,4 @@
-- 👋 Hi there, Anuj Sharma
+- 👋  Anuj Sharma
 -
 - 🔭 I'm currently pursuing masters in Computer Vision, Robotics, Artificial Intelligence from University of Surrey-Guildford(2022-2023)
 - 🌱 I’m passionate about Artificial Intelligence, Machine learning,Deep Learning, Medical Image Processing Sound-Signal Processing, Natural Language Processing.
